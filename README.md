@@ -10,6 +10,7 @@ Features implemented:
 - [x] Input Name and Email 
 - [x] Check Name Field isn't empty
 - [x] Check Email Field has a value longer than 6 letters and includes '@'
+- [x] Email-specific keyboard when typing in the email 
 
 
 ## Home Page
