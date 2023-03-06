@@ -10,7 +10,7 @@ export default function Login({ login }) {
       alert("Please fill in all fields.");
       return;
     } 
-    else if (!email.includes("@")) {
+    else if (!email.includes("@") || email.length < 6) {
       alert("Please enter a valid email.");
       return;
     }
